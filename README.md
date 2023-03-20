@@ -1,0 +1,1 @@
+## raw JavaScript Redux Simple Project
